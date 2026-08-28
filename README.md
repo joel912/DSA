@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/joel912/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/joel912/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/joel912/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/joel912/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/joel912/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/joel912/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/joel912/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joel912/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/joel912/DSA/tree/master/0739-daily-temperatures) |
 | [1386-cinema-seat-allocation](https://github.com/joel912/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/joel912/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/joel912/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
